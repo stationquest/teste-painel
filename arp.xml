@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+
+<item>
+<title>teste 1</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/p110wWpJewUVk4/Cheech_e_Chong_-_Queimando_Tudo_1978_Dual_%C3%81udio_Bluray_1080p.mkv.mp4</link>
+<thumbnail></thumbnail>
+<genre>Comédia</genre>
+<fanart></fanart>
+<info>Area de teste</info>
+</item>
+
+<item>
+<title>teste 2</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:308A3A0AC201388C9809C0B4B5C337772AF618D8&dn=Ghostbusters.Frozen.Empire.2024.1080p.HDCAM.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online</link>
+<thumbnail></thumbnail>
+<genre>Ação | Aventura | Ficção</genre>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>teste 3</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/Z2YkPK6XYeSR88/%28t_me_torrentboxdportal%29_Planeta_dos_Macacos_O_Reinado_mkv_mp4.mp4</link>
+<thumbnail></thumbnail>
+<genre>Ação | Aventura | Ficção</genre>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>teste 4</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9c3d83e9e995cda44ebaba060d9887e6d640d4d&dn=O+Mar+N%C3%A3o+Est%C3%A1+Para+Peixe-Dvdrip+Dublado+PT-BR&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80</link>
+<thumbnail></thumbnail>
+<genre>Ação | Aventura | Ficção</genre>
+<fanart></fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>teste 5</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QNYFMK2TPWMSJMWOHHXN5TP7MI46PXID&dn=instalacao-de-jogos&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce</link>
+<thumbnail></thumbnail>
+<genre>Ação | Aventura | Ficção</genre>
+<fanart></fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>teste 6</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/eaQ1b9pVjbIYDPp/Premoni%C3%A7%C3%A3o_2_2003_HD.mkv.mp4</link>
+<thumbnail></thumbnail>
+<genre>Ação | Aventura | Ficção</genre>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>teste 7</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/1qgjDVbjZViypM/Premoni%C3%A7%C3%A3o_3_2006_HD.mkv.mp4</link>
+<thumbnail></thumbnail>
+<genre>Ação | Aventura | Ficção</genre>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>teste 8</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/3p0X24j7lPSDpX/Premoni%C3%A7%C3%A3o_4_2009_HD.mkv.mp4</link>
+<thumbnail></thumbnail>
+<genre>Ação | Aventura | Ficção</genre>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>teste 9</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/WbJMr92DBBFbbZM/Premoni%C3%A7%C3%A3o_5_2011_HD.mkv.mp4</link>
+<thumbnail></thumbnail>
+<genre>Ação | Aventura | Ficção</genre>
+<fanart></fanart>
+<info></info>
+</item>
+  
+
+</items>
