@@ -83,6 +83,24 @@
 <fanart></fanart>
 <info></info>
 </item>
+
+<item>
+<title>teste 10</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/qlgz39Jg0lczpmM/Abraham_Lincoln_Vs_Zombies_%282012%29.mp4</link>
+<thumbnail></thumbnail>
+<genre>Ação | Aventura | Ficção</genre>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>teste 11</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DNUL3R7EB5XV3622I7W67YH6PUBXCOF</link>
+<thumbnail></thumbnail>
+<genre>Ação | Aventura | Ficção</genre>
+<fanart></fanart>
+<info></info>
+</item>
   
 
 </items>
