@@ -1,1 +1,5 @@
-
+#EXTM3U 
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band Campinas HD" tvg-logo="http://painelsbo.painel.life/logo/bandcampinas.png" group-title="Canais :: ABERTOS",teste1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]area de teste[/COLOR]&Buffer=53654&url=https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=jrQWkwCWo31PFQ6stNWZvjisKdCUDpqF%2FJbS7PwA5s7gQ7vcKpYU7xEFZtc%2FlUl1&expiry=cv8bQb3bkHBj4nLmBn7EXg%3D%3D&mac=518600ee5e99a3ab0e14e813643b8e03a4669250ab4303807cfaf899a7ef1011
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band Campinas HD" tvg-logo="http://painelsbo.painel.life/logo/bandcampinas.png" group-title="Canais :: ABERTOS",teste2
+https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=jrQWkwCWo31PFQ6stNWZvjisKdCUDpqF%2FJbS7PwA5s7gQ7vcKpYU7xEFZtc%2FlUl1&expiry=cv8bQb3bkHBj4nLmBn7EXg%3D%3D&mac=518600ee5e99a3ab0e14e813643b8e03a4669250ab4303807cfaf899a7ef1011
