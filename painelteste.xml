@@ -4,10 +4,11 @@
     <fanart>https://exemplo.com/transmissao_fanart.jpg</fanart>
     <info>Assista à transmissão ao vivo</info>
     <externallink>https://www.climaaovivo.com.br/sp/bourbon-atibaia-resort</externallink>
+    
     <parser>
         <name>ClimaAoVivo</name>
         <type>html</type>
-        <pattern>"link":"(https?:\/\/[^"]+)"</pattern>
+        <pattern>"link":"(https?:\/\/[^"]+embed\.html[^"]+)"</pattern>
+        <result>1</result> <!-- Captura a URL do stream -->
     </parser>
 </channel>
-
