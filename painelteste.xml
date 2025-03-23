@@ -1,14 +1,7 @@
-<channel>
-    <name>Atibaia ao vivo</name>
-    <thumbnail>https://exemplo.com/transmissao.png</thumbnail>
-    <fanart>https://exemplo.com/transmissao_fanart.jpg</fanart>
-    <info>Assista à transmissão ao vivo</info>
-    <externallink>https://www.climaaovivo.com.br/sp/bourbon-atibaia-resort</externallink>
-    
-    <parser>
-        <name>ClimaAoVivo</name>
-        <type>html</type>
-        <pattern>"link":"(https?:\/\/[^"]+embed\.html[^"]+)"</pattern>
-        <result>1</result> <!-- Captura a URL do stream -->
-    </parser>
-</channel>
+<regex>
+    <name>ClimaAoVivo</name>
+    <page>https://www.climaaovivo.com.br/sp/bourbon-atibaia-resort</page>
+    <expres>"link":"(https?:\/\/[^"]+embed\.html[^"]+)"</expres>
+    <referer>https://www.climaaovivo.com.br/</referer>
+    <ignorecache>1</ignorecache>
+</regex>
