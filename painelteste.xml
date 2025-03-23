@@ -4,8 +4,10 @@
     <fanart>https://exemplo.com/transmissao_fanart.jpg</fanart>
     <info>Assista à transmissão ao vivo</info>
     <externallink>https://www.climaaovivo.com.br/sp/bourbon-atibaia-resort</externallink>
-    <regex>
-        <name>ExtrairTransmissao</name>
-        <expres>"link":"(.*?)"</expres>
-    </regex>
+    <parser>
+        <name>ClimaAoVivo</name>
+        <type>html</type>
+        <pattern><video[^>]*id="my-video"[^>]*>.*?<source src="([^"]+)"</pattern>
+        <regex>["'](https?:\/\/[^"']+\.(m3u8|mp4))["']</regex>
+    </parser>
 </channel>
